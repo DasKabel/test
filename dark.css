@@ -13661,12 +13661,12 @@ select+.select2-container--bootstrap-5 {
  font-style:normal;
  font-weight:900;
  font-display:block;
- src:url(/assets/font-awesome/fa-solid-900-74883516ac6bb785f2d12d162d769fa7a8fabc7794ef44fc28ffc375b2d7c27c.eot);
- src:url(/assets/font-awesome/fa-solid-900-74883516ac6bb785f2d12d162d769fa7a8fabc7794ef44fc28ffc375b2d7c27c.eot#iefix) format("embedded-opentype"),
- url(/assets/font-awesome/fa-solid-900-e546fb3c56953992a5d20c52edb9e6d1b1141184b88ae19ba20a566d2ad98dbc.woff2) format("woff2"),
- url(/assets/font-awesome/fa-solid-900-195989f30d333ecf41e0021dbb92c690f367d2672c43199079d9be4b81dc90da.woff) format("woff"),
- url(/assets/font-awesome/fa-solid-900-aa4b725084f0ad0d2d28df4191084467663b409d7272ba2f1cb6ece2d03553ec.ttf) format("truetype"),
- url(/assets/font-awesome/fa-solid-900-387bea778f72246fad5ea5b69f68cd059a942e3ab181eb2390ad089bc9cc5e06.svg#fontawesome) format("svg")
+ src:local(/assets/font-awesome/fa-solid-900-74883516ac6bb785f2d12d162d769fa7a8fabc7794ef44fc28ffc375b2d7c27c.eot);
+ src:local(/assets/font-awesome/fa-solid-900-74883516ac6bb785f2d12d162d769fa7a8fabc7794ef44fc28ffc375b2d7c27c.eot#iefix) format("embedded-opentype"),
+ local(/assets/font-awesome/fa-solid-900-e546fb3c56953992a5d20c52edb9e6d1b1141184b88ae19ba20a566d2ad98dbc.woff2) format("woff2"),
+ local(/assets/font-awesome/fa-solid-900-195989f30d333ecf41e0021dbb92c690f367d2672c43199079d9be4b81dc90da.woff) format("woff"),
+ local(/assets/font-awesome/fa-solid-900-aa4b725084f0ad0d2d28df4191084467663b409d7272ba2f1cb6ece2d03553ec.ttf) format("truetype"),
+ local(/assets/font-awesome/fa-solid-900-387bea778f72246fad5ea5b69f68cd059a942e3ab181eb2390ad089bc9cc5e06.svg#fontawesome) format("svg")
 }
 @font-face {
  font-family:'Font Awesome 5 Free';
